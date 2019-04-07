@@ -1,0 +1,19 @@
+body {
+    background-image: url(Images/IMG_0054.jpeg);
+    background-size: cover;
+}
+
+.container {
+    background-color: white;
+    opacity: .9;
+}
+
+#projects,
+#contact {
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.divider {
+    height: 2px !important;
+}
